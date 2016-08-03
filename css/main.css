@@ -1,0 +1,234 @@
+.linea{
+	border-left: 1px solid black;
+	padding-left: 50px;
+	padding-right: 20px;
+}
+
+li{
+	font-size: 15px;
+	list-style:none;
+	display: inline-block;
+	color: grey;
+	margin-left: 10px;
+	margin-right: 20px;
+	font-family: OpenSans-Light;
+}
+
+a {
+	color:black;
+	text-decoration:none;
+}
+
+#logo{
+	width: 100px;
+	height: auto;
+}
+
+.left{
+	margin-left: 180px;
+}
+
+#bck{
+	background-image: url("../img/semilla.jpg");
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:100%;
+	margin: 0px;   
+	max-width: 100%;
+	height: 400px;
+}
+
+#gris{
+	background-color: #BDBDBD;
+	margin: 0px;
+}
+
+.center{
+	padding-left:150px;
+	font-family: OpenSans-Regular; 
+}
+
+h1{
+	font-family: OpenSans-Bold;
+}
+
+.center{
+	padding: 100px;
+}
+
+.right{
+	margin-right:30px; 
+}
+
+#bckmetodo{
+	background-image: url("../img/metodo.jpg");
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:100%;
+	margin: 0px;   
+	max-width: 100%;
+	height: 350px;
+}
+
+#bckfondo{
+	background-image: url("../img/fondo.jpg");
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:100%;
+	margin: 0px;   
+	max-width: 100%;
+	height: 350px;
+}
+
+.white{
+	color: white;
+}
+
+.fontp{
+	font-family: OpenSans-Light;
+}
+
+.verde{
+	color: #4B8A08;
+}
+
+.verde2{
+	background-color: #4B8A08;
+	margin: 0px;
+}
+
+h3{
+	font-family: OpenSans-Bold;
+}
+
+h5{
+	font-family: OpenSans-Regular;
+}
+
+h6{
+	font-family: OpenSans-Regular;
+	margin-left: 100px;
+	font-size: 16px;
+}
+
+.tet{
+	font-family: OpenSans-Regular;
+}
+
+.tet2{
+	font-family: OpenSans-Regular;
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+
+.ninos{
+	width: 500px;
+	height: auto;
+	margin-left: 100px;
+}
+
+.par{
+	padding-left: 100px;
+	padding-right: 100px;
+}
+
+.verde3{
+	color: #4B8A08;
+	margin-left: 110px;
+}
+
+.circ{
+	border-radius: 100%;
+}
+
+.inline{
+	display: inline-block;
+	width: 50px;
+	height: auto;
+}
+
+#grey{
+	background-color: grey;
+	padding: 100px;
+	margin: 0px;
+}
+
+.cajas{
+	width: 50px;
+	height: auto;
+	margin-left: 200px;
+}
+
+.cajase{
+	width: auto;
+	height: 50px;
+	margin-left: 200px;
+}
+
+.border{
+	border: 1px solid white;
+	padding-bottom: 10px;
+	font-family: OpenSans-Light;
+	color: white;
+	padding-top: 20px;
+	font-size: 18px;
+}
+
+.pb-6{
+	padding-bottom: 100px;
+}
+
+#tipo{
+	font-family: OpenSans-Light;
+	font-size: 16px;
+}
+
+#center1{
+	padding-left: 100px;
+}
+
+#center2{
+	text-align: right;
+	padding-right: 100px;
+}
+
+#ama{
+	color: #FACC2E;
+	font-family: OpenSans-Bold;
+}
+
+#negro{
+	color: gray;
+}
+
+.blogsize{
+	width:300px;
+	height: auto;
+}
+
+.tiles{
+	background-image: url("../img/fondo2.jpg");
+	background-repeat: repeat;
+	background-size: 100%;
+	max-width: 100%;
+    height:410px;
+    margin: 0px;
+}
+
+.fuente{
+	font-family: OpenSans-Regular;
+	color: grey;
+}
+
+#centrado{
+	padding-left: 10px;
+}
+
+.slider{
+	padding-top: 130px;
+}
+
+#mover{
+	padding-left: 100px;
+}
